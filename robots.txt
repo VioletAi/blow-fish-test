@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/VioletAi/blow-fish-test/sitemap.xml
